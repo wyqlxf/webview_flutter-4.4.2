@@ -23,7 +23,7 @@ dependencies:
   webview_flutter_platform_interface:
     git:
       url: https://github.com/zerotimo1234/webview_flutter-4.4.2.git
-      path: ../webview_flutter_platform_interface
+      path: webview_flutter_platform_interface
 
 dev_dependencies:
   build_runner: ^2.1.5
